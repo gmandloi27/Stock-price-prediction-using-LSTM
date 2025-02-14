@@ -65,4 +65,5 @@ Data Collection: Day-wise historical stock prices of selected companies were gat
 3. Deploying the model as an API or mobile application.
 
 **Author**
+
 ***Gaurav Mandloi***
